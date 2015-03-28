@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=startAmount\ balance\ credit\ name\ adress
+comment0.target=Account(int,\ int,\ int,\ java.lang.String,\ java.lang.String)
+comment1.params=amountBalance
+comment1.target=void\ setBalance(int)
+comment2.params=
+comment2.target=int\ getBalance()
+comment3.params=amountCredit
+comment3.target=void\ setCreditLimit(int)
+comment4.params=
+comment4.target=int\ getCreditLimit()
+comment5.params=
+comment5.target=void\ showData()
+comment6.params=setsAdress
+comment6.target=void\ setAccountHolderAddress(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getAccountHolderAddress()
+comment8.params=setsName
+comment8.target=void\ setAccountHolderName(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getAccountHolderName()
+numComments=10
